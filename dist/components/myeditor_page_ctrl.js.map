@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/components/myeditor_page_ctrl.js"],"names":["MyEditorPageCtrl","templateUrl"],"mappings":";;;;;;;;;;;;;;;;kCAAaA,gB;;;;;;AAIbA,uBAAiBC,WAAjB,GAA+B,oCAA/B","file":"myeditor_page_ctrl.js","sourcesContent":["export class MyEditorPageCtrl {\n\n}\n\nMyEditorPageCtrl.templateUrl = 'components/myeditor_page_ctrl.html';\n"]}
