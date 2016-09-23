@@ -37,7 +37,6 @@
   ],
 
   "dependencies": {
-    "grafanaVersion": "3.x.x",
-    "plugins": []
+    "grafanaVersion": "3.x.x"
   }
 }
