@@ -20,7 +20,7 @@ System.register([], function (_export, _context) {
 
       _export('MyEditorPageCtrl', MyEditorPageCtrl);
 
-      MyEditorPageCtrl.templateUrl = 'components/myeditor_page_ctrl.html';
+      MyEditorPageCtrl.templateUrl = './components/myeditor_page_ctrl.html';
     }
   };
 });
