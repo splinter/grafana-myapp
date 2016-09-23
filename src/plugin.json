@@ -4,8 +4,8 @@
   "id": "grafana-myapp",
 
   "pages": [
-    { "name": "My Editor", "component": "MyEditorPageCtrl", "role": "Editor"},
-    { "name": "My View", "component": "MyViewPageCtrl", "role": "Viewer"}
+    { "name": "My Editor", "component": "MyEditorPageCtrl", "role": "Admin"},
+    { "name": "My View", "component": "MyViewPageCtrl", "role": "Admin"}
   ],
 
   "css": {
