@@ -1,6 +1,6 @@
 'use strict';
 
-System.register(['./components/myeditor_page_ctrl.js', './components/myview_page_ctrl.js'], function (_export, _context) {
+System.register(['components/myeditor_page_ctrl.js', 'components/myview_page_ctrl.js'], function (_export, _context) {
   "use strict";
 
   var MyEditorPageCtrl, MyViewPageCtrl;
