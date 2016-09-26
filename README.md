@@ -1,3 +1,4 @@
+#Introduction
 This plugin was created by following the structure specified here:
 
 https://github.com/grafana/example-app
